@@ -63,6 +63,7 @@ class MathUtilsTest {
 		System.out.println("This needs to be run before all");
 	}
 
+	
 	@Test
 	@DisplayName("sum method is getting tested")
 	@Tag("Math")
